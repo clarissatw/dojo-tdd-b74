@@ -1,9 +1,9 @@
 # DOJO TDD Batch 74
 
 ## Tech Stack
-Java JDK 8
-Gradle 7.0.2
-JUnit 5
+- Java JDK 8
+- Gradle 7.0.2
+- JUnit 5
 
 ## Prerequisites
 - Install Java JDK 8
